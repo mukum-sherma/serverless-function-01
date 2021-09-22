@@ -31,7 +31,7 @@ export default function Home() {
   
   return (
     <div>
-      welcome
+      <h1>welcome</>
       { name }
      </div>
   )
