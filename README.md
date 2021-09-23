@@ -1,5 +1,5 @@
 
-[![Deploy to Netlify yea](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/mukum-sherma/gatsby-netlify-serverless-function)
+<!-- [![Deploy to Netlify yea](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/mukum-sherma/gatsby-netlify-serverless-function) -->
 
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
